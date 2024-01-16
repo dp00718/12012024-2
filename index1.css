@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+.Main{
+    display: flex;
+    background-color: orange;
+    justify-content: space-between;
+    align-items: center;
+
+    .center{
+        display: flex;
+        align-items: center;
+        list-style: none;
+        padding: 10px 30px;
+        justify-content: space-between;
+        gap: 20px;
+    }
+    .right{
+        gap: 20px;
+    }
+
+}
+
+}
